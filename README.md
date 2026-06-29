@@ -126,7 +126,7 @@ Some apps may experience issues with their file pickers or not be able to apply 
 
 
 ## Compatibility
-Unfortunately, not all apps work in LiveContainer, so we have a [compatibility list](https://github.com/LiveContainer/LiveContainer/labels/compatibility) to tell if there is apps that have issues. If they aren't on this list, then it's likely going run. However, if it doesn't work, please make an [issue](https://github.com/LiveContainer/LiveContainer/issues/new/choose) about it.
+Unfortunately, not all apps work in LiveCloset, so we have [LiveContainer's Compatibility List](https://github.com/LiveContainer/LiveContainer/labels/compatibility) and [LiveCloset's Compatibility List](https://github.com/electryct/LiveCloset/labels/compatibility) to tell if there is apps that have issues. If they aren't on this list, then it's likely going run. However, if it doesn't work, please make an issue at [LiveContainer's Issues](https://github.com/LiveContainer/LiveContainer/issues/new/choose) or [LiveCloset's Issues](https://github.com/electryct/LiveCloset/issues/new/choose) about it.
 
 ## Building
 Open Xcode, edit `DEVELOPMENT_TEAM[config=Debug]` in `xcconfigs/Global.xcconfig` to your team id and compile.
