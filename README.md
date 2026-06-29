@@ -87,8 +87,14 @@ Nightly
 
 # Features & Guides
 
-### Installing Apps
-- Open LiveContainer, tap the plus icon in the upper right hand corner and select IPA files to install.
+### Installing Apps (APK)
+- Open LiveCloset, tap the plus icon in the upper right hand corner and select APK files to install.
+- LiveCloset will automatically detect the Android version required to run the APK(s), and will automatically install the recommended version if not already installed.
+- Choose the app you want to open in the next launch.
+- You can long-press the app to manage it.
+
+### Installing Apps (IPA)
+- Open LiveCloset, tap the plus icon in the upper right hand corner and select ipa files to install.
 - Choose the app you want to open in the next launch.
 - You can long-press the app to manage it.
 
