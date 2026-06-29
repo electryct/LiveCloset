@@ -6,7 +6,7 @@
 <div align="center">
   <h1><b>LiveCloset</b></h1>
   <p><i>An app launcher that runs Android apps on iOS without actually installing them! </i></p>
-  <p><i>This project is based off of LiveContainer. </i></p>
+  <p><i>This project is based off of LiveContainer. To support LiveContainer, see (LiveContainer)[https://livecontainer.github.io]</i></p>
 </div>
 <h6 align="center">
 
