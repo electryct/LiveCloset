@@ -12,18 +12,18 @@
 
 Crowdin Project: [![Crowdin](https://badges.crowdin.net/livecontainer/localized.svg)](https://crowdin.com/project/livecontainer) &nbsp;| &nbsp; Documentation:[livecontainer.github.io](https://livecontainer.github.io/docs/intro)
 
-# LiveContainer
-
-- LiveContainer is an app launcher (not emulator or hypervisor) that allows you to run iOS apps inside it.
-- Allows you to install unlimited apps (3 app/10 app id free developer account limit does not apply here) with only one app & app id. You can also have multiple versions of an app installed with multiple data containers.
-- (Below iOS 26) When JIT is available, codesign is entirely bypassed, no need to sign your apps before installing. Otherwise, your app will be signed with the same certificate used by LiveContainer.
-
 # LiveCloset
 
 - LiveCloset is a a translator (not emulator or hypervisor) that translates APKs into code that iOS can understand.
 - Allows you to install unlimited apks (3 app/10 app id free developer account limit does not apply here) with only one app & app id. You can also have multiple versions of an app installed with multiple data containers.
 - (Below iOS 26) When JIT is available, codesign is entirely bypassed, no need to sign your apps before installing. Otherwise, your app will be signed with the same certificate used by LiveContainer.
 - LiveCloset can also act like LiveContainer, and allow you to install .ipa files in the app launcher. This needs to be installed as an add on in the app and is not pre installed.
+
+# LiveContainer
+
+- LiveContainer is an app launcher (not emulator or hypervisor) that allows you to run iOS apps inside it.
+- Allows you to install unlimited apps (3 app/10 app id free developer account limit does not apply here) with only one app & app id. You can also have multiple versions of an app installed with multiple data containers.
+- (Below iOS 26) When JIT is available, codesign is entirely bypassed, no need to sign your apps before installing. Otherwise, your app will be signed with the same certificate used by LiveContainer.
 
 > [!CAUTION]
 > **Important Notice Regarding Third-Party Builds of LiveContainer**
